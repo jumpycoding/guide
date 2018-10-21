@@ -3,13 +3,15 @@ title: Surface Area of a Sphere
 ---
 ## Surface Area of a Sphere
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/mathematics/surface-area-of-a-sphere/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
 
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+The surface area of a sphere is denoted as:
+
+4 pi r^2
+
+  Where r is the radius of the sphere.
 
 #### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
-
+[Surface Area of a Cone]"https://github.com/freeCodeCamp/guide/blob/master/src/pages/mathematics/surface-area-of-a-cone/index.md"
+[Surface Area of a Pyramid]"https://github.com/freeCodeCamp/guide/blob/master/src/pages/mathematics/surface-area-of-a-pyramid/index.md#surface-area-of-a-pyramid"
 
